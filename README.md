@@ -1,8 +1,8 @@
-# Programming for Data Analysis Project
+# Programming for Data Analysis
 
-## Examination of a red wine dataset
+## Project: Examination of a red wine dataset
 
-![Alt text](Wines-of-the-Alentejo.jpg "Optional title")
+![Wine barrels](Wines-of-the-Alentejo.jpg "Optional title")
 
 
 ## Problem statement
